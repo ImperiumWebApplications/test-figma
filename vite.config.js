@@ -1,21 +1,24 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
-import path from 'path';
-import fs from 'fs';
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+import path from "path";
+import fs from "fs";
 
 export default defineConfig({
   plugins: [react()],
   build: {
-    outDir: 'dist',
+    outDir: "dist",
+    rollupOptions: {
+      external: ["react", "react-dom"],
+    },
   },
-  publicDir: 'assets',
-  base: './',
+  publicDir: "assets",
+  base: "./",
   plugins: [
     {
-      name: 'copy-assets',
+      name: "copy-assets",
       writeBundle() {
-        const assetsDir = path.resolve(__dirname, 'assets');
-        const distDir = path.resolve(__dirname, 'dist', 'assets');
+        const assetsDir = path.resolve(__dirname, "assets");
+        const distDir = path.resolve(__dirname, "dist", "assets");
 
         // Create the dist/assets directory if it doesn't exist
         if (!fs.existsSync(distDir)) {
