@@ -5,6 +5,11 @@ import fs from "fs";
 
 export default defineConfig({
   plugins: [react()],
+  resolve: {
+    alias: {
+      react: path.resolve(__dirname, "node_modules/react"),
+    },
+  },
   build: {
     rollupOptions: {
       input: {
