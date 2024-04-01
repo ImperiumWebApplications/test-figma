@@ -2,15 +2,15 @@
   margin-bottom: 4px;
   display: inline-block;
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 400;
   font-size: 24px;
   letter-spacing: 0.5px;
   line-height: 1;
-  color: #F65038;
+  color: #f65038;
 }
 .home-page .line-1 {
-  background: #F65038;
+  background: #f65038;
   margin: 0 9.5px;
   width: 48px;
   height: 1.5px;
@@ -25,12 +25,12 @@
   margin: 2px 0 3.5px 0;
   display: inline-block;
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 400;
   font-size: 24px;
   letter-spacing: 0.5px;
   line-height: 1;
-  color: #3C2695;
+  color: #3c2695;
 }
 .home-page .auto-layout-horizontal {
   margin: 10px 0 8.5px 0;
@@ -43,17 +43,17 @@
 }
 .home-page .do-something {
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 700;
   font-size: 16px;
   letter-spacing: 0.5px;
   line-height: 1.5;
-  color: var(--neutral-0, #FFFFFF);
+  color: var(--neutral-0, #ffffff);
 }
 .home-page .style-filled {
   border-radius: 50px;
-  border: 1px solid var(--c-5, #F65038);
-  background: var(--c-5, #F65038);
+  border: 1px solid var(--c-5, #f65038);
+  background: var(--c-5, #f65038);
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -65,7 +65,7 @@
   left: 98px;
   bottom: -32px;
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 0.2px;
@@ -73,23 +73,23 @@
   color: #000000;
 }
 .quick-funds-sub113 {
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 0.2px;
   line-height: 1.333;
-  color: #F65038;
+  color: #f65038;
 }
 .quick-funds {
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 0.2px;
   line-height: 1.333;
-  color: #9F98D7;
+  color: #9f98d7;
 }
 .home-page .navbar {
-  background: var(--c-3, #FFF6E9);
+  background: var(--c-3, #fff6e9);
   position: relative;
   margin-bottom: 128px;
   display: flex;
@@ -103,20 +103,21 @@
   margin: 0 21px 16px 0;
   display: inline-block;
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 700;
   font-size: 68px;
   letter-spacing: 0.5px;
   line-height: 1.118;
-  color: var(--c-5, #F65038);
+  color: var(--c-5, #f65038);
 }
-.home-page .our-loan-services-offer-ahassle-free-and-streamlined-borrowing-experience-providing-you-with-the-funds-you-need-in-atimely-manner-to-meet-your-financial-requirements {
+.home-page
+  .our-loan-services-offer-ahassle-free-and-streamlined-borrowing-experience-providing-you-with-the-funds-you-need-in-atimely-manner-to-meet-your-financial-requirements {
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 400;
   font-size: 18px;
   letter-spacing: 0.5px;
-  color: #3C2695;
+  color: #3c2695;
 }
 .home-page .information-2 {
   margin-bottom: 24px;
@@ -128,16 +129,16 @@
 }
 .home-page .do-something-1 {
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.5px;
   line-height: 1.5;
-  color: var(--c-5, #F65038);
+  color: var(--c-5, #f65038);
 }
 .home-page .style-outlined {
   border-radius: 50px;
-  border: 2px solid var(--c-5, #F65038);
+  border: 2px solid var(--c-5, #f65038);
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -167,20 +168,21 @@
   display: inline-block;
   align-self: flex-start;
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 700;
   font-size: 40px;
   letter-spacing: 0.5px;
   line-height: 1.395;
-  color: var(--c-5, #F65038);
+  color: var(--c-5, #f65038);
 }
-.home-page .quick-funds-your-trusted-financial-partner-for-loans-quick-approvals-competitive-rates-and-personalized-solutions-to-meet-your-unique-needs-empowering-you-to-achieve-your-financial-goals-apply-online-today {
+.home-page
+  .quick-funds-your-trusted-financial-partner-for-loans-quick-approvals-competitive-rates-and-personalized-solutions-to-meet-your-unique-needs-empowering-you-to-achieve-your-financial-goals-apply-online-today {
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 400;
   font-size: 20px;
   letter-spacing: 0.2px;
-  color: #4734A2;
+  color: #4734a2;
 }
 .home-page .frame-28 {
   display: flex;
@@ -199,7 +201,7 @@
   display: inline-block;
   align-self: flex-start;
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.5px;
@@ -207,7 +209,7 @@
 }
 .home-page .frame-311 {
   border-radius: 20px;
-  border: 1px solid #756E6E;
+  border: 1px solid #756e6e;
   width: 395px;
   height: 46px;
 }
@@ -223,7 +225,7 @@
   display: inline-block;
   align-self: flex-start;
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.5px;
@@ -231,7 +233,7 @@
 }
 .home-page .frame-312 {
   border-radius: 20px;
-  border: 1px solid #756E6E;
+  border: 1px solid #756e6e;
   width: 395px;
   height: 46px;
 }
@@ -247,7 +249,7 @@
   display: inline-block;
   align-self: flex-start;
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.5px;
@@ -255,7 +257,7 @@
 }
 .home-page .frame-31 {
   border-radius: 20px;
-  border: 1px solid #756E6E;
+  border: 1px solid #756e6e;
   width: 395px;
   height: 46px;
 }
@@ -268,17 +270,17 @@
 }
 .home-page .do-something-2 {
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 400;
   font-size: 20px;
   letter-spacing: 0.5px;
   line-height: 1.2;
-  color: var(--neutral-0, #FFFFFF);
+  color: var(--neutral-0, #ffffff);
 }
 .home-page .style-filled-1 {
   border-radius: 50px;
-  border: 1px solid var(--c-5, #F65038);
-  background: var(--c-5, #F65038);
+  border: 1px solid var(--c-5, #f65038);
+  background: var(--c-5, #f65038);
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -288,7 +290,7 @@
 }
 .home-page .frame-30 {
   border-radius: 21px;
-  background: #FFFFFF;
+  background: #ffffff;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -296,7 +298,13 @@
   box-sizing: border-box;
 }
 .home-page .auto-layout-horizontal-2 {
-  background: linear-gradient(280.33deg, rgba(154, 145, 209, 0.6) 146.45%, rgba(171, 162, 236, 0.6) 170.18%, rgba(184, 175, 235, 0.6) 173.74%, rgba(225, 224, 231, 0.6) 202.7%);
+  background: linear-gradient(
+    280.33deg,
+    rgba(154, 145, 209, 0.6) 146.45%,
+    rgba(171, 162, 236, 0.6) 170.18%,
+    rgba(184, 175, 235, 0.6) 173.74%,
+    rgba(225, 224, 231, 0.6) 202.7%
+  );
   display: flex;
   flex-direction: row;
   padding: 90px 125px;
@@ -308,7 +316,7 @@
   margin-bottom: 64px;
   align-self: flex-start;
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 0.2px;
@@ -316,20 +324,20 @@
   color: #000000;
 }
 .quick-funds-1-sub114 {
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 0.2px;
   line-height: 1.333;
-  color: #F65038;
+  color: #f65038;
 }
 .quick-funds-1 {
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 0.2px;
   line-height: 1.333;
-  color: #9F98D7;
+  color: #9f98d7;
 }
 .home-page .container {
   width: 19.7px;
@@ -408,18 +416,19 @@
   width: 126.9px;
   box-sizing: border-box;
 }
-.home-page .our-mission-is-to-empower-individuals-and-businesses-by-providing-them-with-the-financial-resources-they-need-to-achieve-their-goals {
+.home-page
+  .our-mission-is-to-empower-individuals-and-businesses-by-providing-them-with-the-financial-resources-they-need-to-achieve-their-goals {
   position: absolute;
   left: 50%;
   top: 50%;
   translate: -50% -50%;
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 400;
   font-size: 18px;
   letter-spacing: 0.2px;
   line-height: 1.333;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .home-page .frame-18 {
   position: relative;
@@ -433,15 +442,15 @@
   margin-bottom: 8px;
   display: inline-block;
   overflow-wrap: break-word;
-  font-family: 'DM Sans';
+  font-family: "DM Sans";
   font-weight: 700;
   font-size: 22px;
   letter-spacing: 0.2px;
   line-height: 1.091;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .home-page .line-6 {
-  background: #FFFFFF;
+  background: #ffffff;
   align-self: flex-start;
   width: 55px;
   height: 1px;
@@ -469,11 +478,11 @@
 }
 .home-page .container-1 {
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 500;
   font-size: 18px;
   letter-spacing: 1.1px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .home-page .frame-22 {
   margin: 0 0px 16px 0px;
@@ -498,11 +507,11 @@
 }
 .home-page .xyzfh-5-gmail-com {
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 500;
   font-size: 18px;
   letter-spacing: 1.1px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .home-page .frame-23 {
   margin: 0 12px 16px 0;
@@ -526,11 +535,11 @@
 }
 .home-page .address-line-1-address-line-2-city-state-pin-code {
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 500;
   font-size: 18px;
   letter-spacing: 1.1px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .home-page .frame-24 {
   margin-left: 0px;
@@ -546,12 +555,13 @@
   box-sizing: border-box;
 }
 .home-page .auto-layout-horizontal-1 {
-  background: linear-gradient(rgba(0, 0, 0, 0.46), rgba(0, 0, 0, 0.46)), url('assets/images/AutoLayoutHorizontal.png') 50% / cover no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.46), rgba(0, 0, 0, 0.46)),
+    url("assets/images/AutoLayoutHorizontal.png") 50% / cover no-repeat;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   padding: 153.5px 0;
-  width: 1440px;
+  width: 100%;
   box-sizing: border-box;
 }
 .home-page .frame-27 {
@@ -562,21 +572,22 @@
   width: fit-content;
   box-sizing: border-box;
 }
-.home-page .in-case-you-havent-found-the-answer-to-your-questionplease-fool-free-to-contact-us-support-will-be-happy-to-help-you {
+.home-page
+  .in-case-you-havent-found-the-answer-to-your-questionplease-fool-free-to-contact-us-support-will-be-happy-to-help-you {
   position: absolute;
   top: -258px;
   right: 250.1px;
   text-align: center;
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 400;
   font-size: 18px;
   letter-spacing: 0.4px;
   line-height: 1.767;
-  color: var(--c-3, #FFF6E9);
+  color: var(--c-3, #fff6e9);
 }
 .home-page .rectangle-17 {
-  background: var(--c-1, #50AC97);
+  background: var(--c-1, #50ac97);
   position: absolute;
   left: 0px;
   top: 5px;
@@ -586,12 +597,12 @@
 .home-page .container {
   position: relative;
   overflow-wrap: break-word;
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-weight: 400;
   font-size: 44px;
   letter-spacing: 0.4px;
   line-height: 1.268;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .home-page .group-12 {
   position: absolute;
@@ -605,10 +616,9 @@
   box-sizing: border-box;
 }
 .home-page {
-  background: #FFF8ED;
+  background: #fff8ed;
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 1440px;
   box-sizing: border-box;
 }
